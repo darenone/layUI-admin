@@ -127,7 +127,7 @@ html, body , .app-container{
     left: 0;
     right: 0;
     bottom: 0;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 .app-container{
@@ -146,7 +146,7 @@ html, body , .app-container{
     left: 0;
     right: 0;
     padding: 0;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .app-container .layui-tab-content .layui-tab-item,
